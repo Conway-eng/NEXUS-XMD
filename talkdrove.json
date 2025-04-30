@@ -5,7 +5,7 @@
     "logo": "https://i.imgur.com/jsJSfta.jpeg",
     "keywords": ["bot"],
     "documentation-link": "https://hanstz-site-vortex-xmd.onrender.com/pair",
-    "owner-verification": "nyamanyapolycarp75@gmail.com",
+    "owner-verification": "nicksonkipruto79@gmail.com",
   
     "env": {
       "SESSION_ID": {
@@ -64,7 +64,7 @@
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "255760774888"
+      "value": "254788409105"
 
     }, 
 
